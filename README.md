@@ -95,6 +95,8 @@
 | 联想 | [校招](https://talent.lenovo.com.cn/position?projectType=1)                                                                                                                                               | 2026/7/1  | 全国                                         | 2027届校招预计7月开启 |
 | 小鹏 | [校招](https://xiaopeng.jobs.feishu.cn/campus/position/list)                                                                                                                                              | 2026/7/1  | 全国                                         | 2027届校招预计7月开启 |
 | 吉利 | [校招](https://campus.geely.com/campus-recruitment/geely/78436/#/jobs)                                                                    | 2026/7/1  | 全国                                         | 2027届校招预计7月开启 |
+| 安克创新 Anker | [2027届校招员工内推](https://dub.sh/bVv9DEF) | 2026/9/7 | 深圳、长沙、北京、苏州、上海、杭州、西安等，以岗位页面为准 | 内推码：GWWFNMP；免费员工内推，岗位要求及流程以招聘页面为准 |
+
 
 ### 银行&&保险&&金融&&地产&&国企
 
